@@ -1,1 +1,1 @@
-    <a href="https://ctrl-tejas.github.io/Apple_Nav/">Open</a>
+<a href="https://ctrl-tejas.github.io/Apple_Nav/">Open</a>
